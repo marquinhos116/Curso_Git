@@ -11,7 +11,7 @@ namespace Projeto_Xadrez
         static void Main(string[] args){
             Console.WriteLine("Projeto Jogo Xadrez");
             Console.WriteLine("Vamos Inciar O Projeto");
-            Console.WriteLine("A marcela é chata");
+            Console.WriteLine("Desfazendo algumas coisas");
            
 
             Console.ReadLine();
